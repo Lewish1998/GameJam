@@ -1,0 +1,5 @@
+res://StartPage.gd
+res://startpage/start_page.tscn
+res://room1/room_1.tscn
+res://howtoplay/how_to_play.tscn
+res://howtoplay/how_to_play.gd
